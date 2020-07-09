@@ -1,2 +1,0 @@
-# MyLeetCode
-主要用来记录LeetCode的当时思路以及后续反思
