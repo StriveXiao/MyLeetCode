@@ -3,7 +3,7 @@ package com.strive.lib;
 import java.util.HashMap;
 import java.util.Map;
 
-public class MyCodeDay1 {
+public class Practice1 {
 
     public static void main(String[] args) {
 
